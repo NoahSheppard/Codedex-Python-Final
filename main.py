@@ -21,4 +21,4 @@ async def main():
     await load()
     
 asyncio.run(main())
-bot.run('MTI4NzY2ODYyOTYwMDQ2OTA0Mg.G6gErP.j7o3AhoynhUOHFIkSkT0VQc_HGXkW2MdXR49BA')
+bot.run('token')
