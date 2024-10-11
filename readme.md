@@ -1,0 +1,1 @@
+a discord bot that doesnt do much except show a meme on command
